@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ottonova</string>
+
+    <string name="events">Events</string>
+
+    <string name="general_error_message">Something went wrong</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+    <!-- network messages -->
+    <string name="network_lost">Network is lost</string>
+    <string name="network_unavailable">Network is unavailable</string>
+    <string name="network_losing">Network is losing</string>
+    <string name="network_available">Network is available</string>
+
+    <!-- image content descriptions -->
+    <string name="health_prompt_content_description">Health prompt</string>
+</resources>
